@@ -6,7 +6,7 @@ import random
 import re
 import sys
 
-#
+
 # Complete the 'aVeryBigSum' function below.
 #
 # The function is expected to return a LONG_INTEGER.
