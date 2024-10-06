@@ -1,7 +1,7 @@
 # 5 Ejercicio
 
 ### Quenstion
-![Imagen pegada](img1.png)
+![Imagen pegada](Img1.png)
 
 ### Solution
-![Imagen pegada (2)](Img2.png)
+![Imagen pegada (2)](Immg2.png)
