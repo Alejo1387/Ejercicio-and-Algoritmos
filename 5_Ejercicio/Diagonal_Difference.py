@@ -6,7 +6,6 @@ import random
 import re
 import sys
 
-#
 # Complete the 'diagonalDifference' function below.
 #
 # The function is expected to return an INTEGER.
@@ -17,9 +16,23 @@ def diagonalDifference(arr):
     # Write your code here
     sum1 = 0
     sum2 = 0
-    for i in range(n):
-        sum1 += arr[i][i]
-        sum2 += arr[i][n-(i+1)]
+    resul = 0
+    for i in range(3):
+        for j in range(3):
+            # Primera suma
+            if i==0 and j==0:
+                sum1 += arr[i][j]
+            if i==1 and j==1:
+                sum1 += arr[i][j]
+            if i==2 and j==2:
+                sum1 += arr[i][j]
+            # Segunda suma
+            if i==0 and j==2:
+                sum2 += arr[i][j]
+            if i==1 and j==1:
+                sum2 += arr[i][j]
+            if i==2 and j==0:
+                sum2 += arr[i][j]
     resul = sum1 - sum2
     return abs(resul)
             
