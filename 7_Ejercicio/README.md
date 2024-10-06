@@ -1,4 +1,4 @@
-# 3 Ejercicio
+# 7 Ejercicio
 
 ### Quenstion
 ![Imagen pegada](img1.png)

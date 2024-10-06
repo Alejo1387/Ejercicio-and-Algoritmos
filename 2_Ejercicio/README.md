@@ -1,7 +1,7 @@
-2 Ejercicio
+# 2 Ejercicio
 
-Quenstion
+### Quenstion
 ![Imagen pegada](img1.png)
 
-Solution
+### Solution
 ![Imagen pegada (2)](img2.png)
