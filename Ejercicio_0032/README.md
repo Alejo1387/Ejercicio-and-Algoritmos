@@ -1,9 +1,9 @@
 # 32 Ejercicio
 
 ## Questions
-![imagen pegada](img1.png)
+![imagen pegada](imgg1.png)
 
 ## Solution
 
 #### Python
-![imagen pegada (2)](img2.png)
+![imagen pegada (2)](imgg2.png)
